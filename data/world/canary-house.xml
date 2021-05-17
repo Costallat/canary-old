@@ -1,4 +1,258 @@
 <?xml version="1.0"?>
 <houses>
-	<house name="NPC" houseid="1" entryx="19977" entryy="19988" entryz="7" rent="0" townid="3" size="15" />
+	<house name="Wekesa Flats, Flat 01" houseid="259" entryx="1432" entryy="1818" entryz="7" rent="1100" townid="2" size="14" />
+	<house name="Weseka Flats, Flat 02" houseid="264" entryx="1434" entryy="1818" entryz="7" rent="1100" townid="2" size="14" />
+	<house name="Wekesa Flats, Flat 06" houseid="265" entryx="1431" entryy="1813" entryz="6" rent="1400" townid="2" size="24" />
+	<house name="Wekesa Flats, Flat 05" houseid="266" entryx="1431" entryy="1816" entryz="6" rent="1400" townid="2" size="17" />
+	<house name="Wekesa Flats, Flat 04" houseid="267" entryx="1435" entryy="1813" entryz="6" rent="1400" townid="2" size="24" />
+	<house name="Wekesa Flats, Flat 03" houseid="268" entryx="1435" entryy="1816" entryz="6" rent="1400" townid="2" size="17" />
+	<house name="Sunrise Guildhall I" houseid="270" entryx="1626" entryy="1993" entryz="7" rent="30" townid="3" size="71" />
+	<house name="The Market I" houseid="271" entryx="1642" entryy="1963" entryz="7" rent="30" townid="3" size="36" />
+	<house name="The Market II" houseid="272" entryx="1645" entryy="1966" entryz="7" rent="30" townid="3" size="39" />
+	<house name="Main Street 1" houseid="273" entryx="1904" entryy="2148" entryz="6" rent="30" townid="5" size="73" />
+	<house name="Main Street 2" houseid="274" entryx="1907" entryy="2144" entryz="6" rent="30" townid="5" size="62" />
+	<house name="Main Street 3" houseid="275" entryx="1904" entryy="2158" entryz="6" rent="30" townid="5" size="67" />
+	<house name="Merchant's Hall I" houseid="276" entryx="1578" entryy="2156" entryz="6" rent="30" townid="8" size="12" />
+	<house name="Merchant's Hall II" houseid="277" entryx="1570" entryy="2156" entryz="6" rent="30" townid="8" size="13" />
+	<house name="Merchant's Hall III" houseid="278" entryx="1562" entryy="2156" entryz="6" rent="30" townid="8" size="13" />
+	<house name="Merchant's Hall IV" houseid="279" entryx="1572" entryy="2159" entryz="6" rent="30" townid="8" size="18" />
+	<house name="Merchant's Hall V" houseid="280" entryx="1581" entryy="2159" entryz="6" rent="30" townid="8" size="15" />
+	<house name="Sun Street II" houseid="2603" entryx="1641" entryy="1982" entryz="7" rent="0" townid="3" size="43" />
+	<house name="Sand Flats I" houseid="2604" entryx="1638" entryy="1994" entryz="7" rent="0" townid="3" size="6" />
+	<house name="Sand Flats II" houseid="2605" entryx="1638" entryy="1998" entryz="7" rent="0" townid="3" size="6" />
+	<house name="Upper Store II" houseid="2606" entryx="1632" entryy="1977" entryz="6" rent="0" townid="3" size="4" />
+	<house name="Upper Store IV" houseid="2607" entryx="1634" entryy="1983" entryz="6" rent="0" townid="3" size="10" />
+	<house name="Upper Store I" houseid="2608" entryx="1635" entryy="1977" entryz="5" rent="0" townid="3" size="40" />
+	<house name="Depot Avenue" houseid="2609" entryx="1630" entryy="1977" entryz="7" rent="0" townid="3" size="27" />
+	<house name="Upper Store III" houseid="2610" entryx="1636" entryy="1977" entryz="6" rent="0" townid="3" size="4" />
+	<house name="Sand Flats III" houseid="2611" entryx="1638" entryy="1998" entryz="6" rent="0" townid="3" size="42" />
+	<house name="Cactus Flats I" houseid="2612" entryx="1610" entryy="1951" entryz="7" rent="0" townid="3" size="25" />
+	<house name="Cactus Flats II" houseid="2613" entryx="1611" entryy="1952" entryz="5" rent="0" townid="3" size="26" />
+	<house name="The Fortress II" houseid="2614" entryx="1594" entryy="1944" entryz="7" rent="0" townid="3" size="18" />
+	<house name="The Fortress I" houseid="2615" entryx="1606" entryy="1944" entryz="7" rent="0" townid="3" size="18" />
+	<house name="Scorpion Flats II" houseid="2616" entryx="1597" entryy="1994" entryz="7" rent="0" townid="3" size="7" />
+	<house name="Scorpion Flats III" houseid="2617" entryx="1602" entryy="1994" entryz="7" rent="0" townid="3" size="7" />
+	<house name="Scorpion Flats I" houseid="2618" entryx="1597" entryy="1994" entryz="6" rent="0" townid="3" size="84" />
+	<house name="Palm Tree Flat" houseid="2619" entryx="1615" entryy="1992" entryz="7" rent="0" townid="3" size="7" />
+	<house name="Coconut Hall I" houseid="2620" entryx="1618" entryy="1995" entryz="7" rent="0" townid="3" size="61" />
+	<house name="Wall Flat II" houseid="2621" entryx="1419" entryy="1804" entryz="5" rent="0" townid="2" size="10" />
+	<house name="Wall Flat I" houseid="2622" entryx="1417" entryy="1805" entryz="6" rent="0" townid="2" size="15" />
+	<house name="Wall Flat III" houseid="2623" entryx="1415" entryy="1808" entryz="5" rent="0" townid="2" size="17" />
+	<house name="Wall Flat IV" houseid="2624" entryx="1467" entryy="1803" entryz="6" rent="0" townid="2" size="50" />
+	<house name="Wekesa Flats, Flat 07" houseid="2625" entryx="1427" entryy="1811" entryz="7" rent="0" townid="2" size="31" />
+	<house name="Wekesa Flats, Flat 08" houseid="2626" entryx="1439" entryy="1811" entryz="7" rent="0" townid="2" size="31" />
+	<house name="Lone Hostel" houseid="2627" entryx="1449" entryy="1813" entryz="6" rent="0" townid="2" size="22" />
+	<house name="East Molour Flat" houseid="2628" entryx="1463" entryy="1822" entryz="7" rent="0" townid="2" size="54" />
+	<house name="Sunset Homes, House 1" houseid="2629" entryx="1452" entryy="1832" entryz="7" rent="0" townid="2" size="13" />
+	<house name="Sunset Homes, House 2" houseid="2630" entryx="1457" entryy="1838" entryz="7" rent="0" townid="2" size="27" />
+	<house name="Upstore 1" houseid="2631" entryx="1417" entryy="1845" entryz="6" rent="0" townid="2" size="7" />
+	<house name="Upstore 2" houseid="2632" entryx="1421" entryy="1845" entryz="6" rent="0" townid="2" size="7" />
+	<house name="Central Plaza A" houseid="2633" entryx="1430" entryy="1848" entryz="7" rent="0" townid="2" size="14" />
+	<house name="Central Plaza C" houseid="2634" entryx="1432" entryy="1851" entryz="7" rent="0" townid="2" size="14" />
+	<house name="Central Plaza B" houseid="2635" entryx="1437" entryy="1846" entryz="7" rent="0" townid="2" size="14" />
+	<house name="Plague Kiosk I" houseid="2636" entryx="1441" entryy="1848" entryz="7" rent="0" townid="2" size="10" />
+	<house name="Plague Kiosk II" houseid="2637" entryx="1441" entryy="1853" entryz="7" rent="0" townid="2" size="7" />
+	<house name="Brotherhood Flower" houseid="2638" entryx="1457" entryy="1842" entryz="7" rent="0" townid="2" size="92" />
+	<house name="Winegrass of Wind" houseid="2639" entryx="1468" entryy="1842" entryz="7" rent="0" townid="2" size="75" />
+	<house name="Rosebud A" houseid="2640" entryx="1417" entryy="1857" entryz="7" rent="0" townid="2" size="56" />
+	<house name="Rosebud B" houseid="2641" entryx="1417" entryy="1860" entryz="7" rent="0" townid="2" size="56" />
+	<house name="Plague Street, House 1" houseid="2642" entryx="1442" entryy="1862" entryz="7" rent="0" townid="2" size="20" />
+	<house name="Plague Street, House 2" houseid="2643" entryx="1442" entryy="1864" entryz="7" rent="0" townid="2" size="20" />
+	<house name="South Shop Flat" houseid="2644" entryx="1456" entryy="1858" entryz="7" rent="0" townid="2" size="23" />
+	<house name="Southeast Molour Flats, Flat I" houseid="2645" entryx="1469" entryy="1858" entryz="7" rent="0" townid="2" size="17" />
+	<house name="Southeast Molour Flats, Flat II" houseid="2646" entryx="1470" entryy="1856" entryz="7" rent="0" townid="2" size="7" />
+	<house name="Druids Retreat A" houseid="2647" entryx="1420" entryy="1873" entryz="7" rent="0" townid="2" size="26" />
+	<house name="Druids Retreat B" houseid="2648" entryx="1419" entryy="1872" entryz="6" rent="0" townid="2" size="29" />
+	<house name="Plague Avenue I" houseid="2649" entryx="1891" entryy="2138" entryz="6" rent="0" townid="5" size="153" />
+	<house name="Plague Avenue II" houseid="2650" entryx="1904" entryy="2138" entryz="6" rent="0" townid="5" size="147" />
+	<house name="Plague Avenue III" houseid="2651" entryx="1917" entryy="2138" entryz="6" rent="0" townid="5" size="147" />
+	<house name="Plague Avenue IV" houseid="2652" entryx="1930" entryy="2138" entryz="6" rent="0" townid="5" size="147" />
+	<house name="Main Street 4" houseid="2653" entryx="1904" entryy="2168" entryz="6" rent="0" townid="5" size="67" />
+	<house name="Claw Flats I" houseid="2654" entryx="1911" entryy="2155" entryz="6" rent="0" townid="5" size="16" />
+	<house name="Claw Flats II" houseid="2655" entryx="1919" entryy="2155" entryz="6" rent="0" townid="5" size="17" />
+	<house name="Claw Flats III" houseid="2656" entryx="1912" entryy="2158" entryz="6" rent="0" townid="5" size="8" />
+	<house name="Claw Flats IV" houseid="2657" entryx="1917" entryy="2158" entryz="6" rent="0" townid="5" size="10" />
+	<house name="Claw Flats V" houseid="2658" entryx="1922" entryy="2158" entryz="6" rent="0" townid="5" size="10" />
+	<house name="Claw Flats VI" houseid="2659" entryx="1911" entryy="2155" entryz="7" rent="0" townid="5" size="14" />
+	<house name="Claw Flats VII" houseid="2660" entryx="1919" entryy="2155" entryz="7" rent="0" townid="5" size="17" />
+	<house name="Claw Flats VIII" houseid="2661" entryx="1912" entryy="2158" entryz="7" rent="0" townid="5" size="8" />
+	<house name="Claw Flats IX" houseid="2662" entryx="1917" entryy="2158" entryz="7" rent="0" townid="5" size="10" />
+	<house name="Claw Flats X" houseid="2663" entryx="1922" entryy="2158" entryz="7" rent="0" townid="5" size="10" />
+	<house name="Watchtower III" houseid="2664" entryx="1876" entryy="2185" entryz="6" rent="0" townid="5" size="52" />
+	<house name="Watchtower IV" houseid="2665" entryx="1876" entryy="2188" entryz="6" rent="0" townid="5" size="52" />
+	<house name="Watchtower I" houseid="2666" entryx="1898" entryy="2185" entryz="6" rent="0" townid="5" size="52" />
+	<house name="Watchtower II" houseid="2667" entryx="1898" entryy="2188" entryz="6" rent="0" townid="5" size="52" />
+	<house name="The Swamp Fort" houseid="2668" entryx="1906" entryy="2201" entryz="6" rent="0" townid="5" size="187" />
+	<house name="Marketfront" houseid="2669" entryx="1916" entryy="2188" entryz="6" rent="0" townid="5" size="133" />
+	<house name="Moon Street I" houseid="2670" entryx="1941" entryy="2182" entryz="6" rent="0" townid="5" size="111" />
+	<house name="Moon Street II" houseid="2671" entryx="1944" entryy="2182" entryz="6" rent="0" townid="5" size="133" />
+	<house name="Moon Street III" houseid="2672" entryx="1944" entryy="2193" entryz="6" rent="0" townid="5" size="46" />
+	<house name="Watchtower V" houseid="2673" entryx="1928" entryy="2201" entryz="6" rent="0" townid="5" size="56" />
+	<house name="Watchtower VI" houseid="2674" entryx="1931" entryy="2201" entryz="6" rent="0" townid="5" size="56" />
+	<house name="Shop Avenue" houseid="2675" entryx="2002" entryy="2709" entryz="7" rent="0" townid="6" size="36" />
+	<house name="Mage Flat I" houseid="2676" entryx="1985" entryy="2714" entryz="7" rent="0" townid="6" size="38" />
+	<house name="Mage Flat III" houseid="2677" entryx="1986" entryy="2715" entryz="6" rent="0" townid="6" size="4" />
+	<house name="Mage Flat II" houseid="2678" entryx="1988" entryy="2717" entryz="7" rent="0" townid="6" size="32" />
+	<house name="Mage Flat IV" houseid="2679" entryx="1992" entryy="2717" entryz="6" rent="0" townid="6" size="10" />
+	<house name="Mage Flat V" houseid="2680" entryx="1998" entryy="2717" entryz="6" rent="0" townid="6" size="10" />
+	<house name="Breeze Avenue I" houseid="2681" entryx="1988" entryy="2744" entryz="7" rent="0" townid="6" size="139" />
+	<house name="Breeze Avenue II" houseid="2682" entryx="1978" entryy="2744" entryz="7" rent="0" townid="6" size="133" />
+	<house name="Breeze Avenue III" houseid="2683" entryx="2001" entryy="2744" entryz="7" rent="0" townid="6" size="132" />
+	<house name="Sea Lovers I" houseid="2684" entryx="2024" entryy="2750" entryz="7" rent="0" townid="6" size="52" />
+	<house name="Big Tree" houseid="2685" entryx="2024" entryy="2747" entryz="7" rent="0" townid="6" size="179" />
+	<house name="Sea Lovers II" houseid="2686" entryx="2031" entryy="2750" entryz="7" rent="0" townid="6" size="44" />
+	<house name="Leaf Street I" houseid="2687" entryx="2036" entryy="2746" entryz="7" rent="0" townid="6" size="102" />
+	<house name="Leaf Street II" houseid="2688" entryx="2045" entryy="2739" entryz="7" rent="0" townid="6" size="35" />
+	<house name="Leaf Street III" houseid="2689" entryx="2047" entryy="2730" entryz="7" rent="0" townid="6" size="85" />
+	<house name="Sea Lovers III" houseid="2690" entryx="2069" entryy="2766" entryz="7" rent="0" townid="6" size="189" />
+	<house name="Depot Flat I" houseid="2691" entryx="2030" entryy="2704" entryz="7" rent="0" townid="6" size="12" />
+	<house name="Depot Flat II" houseid="2692" entryx="2030" entryy="2711" entryz="7" rent="0" townid="6" size="12" />
+	<house name="Letterside Flat" houseid="2693" entryx="2025" entryy="2695" entryz="7" rent="0" townid="6" size="16" />
+	<house name="The Bridge" houseid="2694" entryx="2020" entryy="2699" entryz="6" rent="0" townid="6" size="13" />
+	<house name="The Explorer Flat I" houseid="2695" entryx="2027" entryy="2693" entryz="6" rent="0" townid="6" size="5" />
+	<house name="Depot Flat III" houseid="2696" entryx="2032" entryy="2705" entryz="6" rent="0" townid="6" size="12" />
+	<house name="Depot Flat IV" houseid="2697" entryx="2032" entryy="2709" entryz="6" rent="0" townid="6" size="12" />
+	<house name="Ody's Treasure" houseid="2698" entryx="2032" entryy="2672" entryz="6" rent="0" townid="6" size="38" />
+	<house name="The Explorer Flat II" houseid="2699" entryx="2026" entryy="2668" entryz="7" rent="0" townid="6" size="29" />
+	<house name="The Explorer Flat III" houseid="2700" entryx="2023" entryy="2675" entryz="7" rent="0" townid="6" size="14" />
+	<house name="The Explorer Flat IV" houseid="2701" entryx="2029" entryy="2668" entryz="7" rent="0" townid="6" size="21" />
+	<house name="The Explorer Flat V" houseid="2702" entryx="2028" entryy="2681" entryz="7" rent="0" townid="6" size="21" />
+	<house name="The Explorer Flat VI" houseid="2703" entryx="2041" entryy="2680" entryz="7" rent="0" townid="6" size="28" />
+	<house name="The Explorer Flat VII" houseid="2704" entryx="2034" entryy="2687" entryz="7" rent="0" townid="6" size="15" />
+	<house name="Savage Dormitory" houseid="2705" entryx="2042" entryy="2669" entryz="7" rent="0" townid="6" size="56" />
+	<house name="Peace Quarter, Flat I" houseid="2706" entryx="1990" entryy="2782" entryz="7" rent="0" townid="6" size="36" />
+	<house name="Peace Quarter, Flat II" houseid="2707" entryx="1995" entryy="2795" entryz="7" rent="0" townid="6" size="24" />
+	<house name="Peace Quarter, Flat III" houseid="2708" entryx="1995" entryy="2806" entryz="7" rent="0" townid="6" size="38" />
+	<house name="Peace Quarter, Flat IV" houseid="2709" entryx="1992" entryy="2789" entryz="6" rent="0" townid="6" size="33" />
+	<house name="Peace Quarter, Flat V" houseid="2710" entryx="1993" entryy="2797" entryz="6" rent="0" townid="6" size="10" />
+	<house name="Peace Quarter, Flat VI" houseid="2711" entryx="1989" entryy="2797" entryz="6" rent="0" townid="6" size="10" />
+	<house name="Peace Quarter, Flat VII" houseid="2712" entryx="1993" entryy="2799" entryz="6" rent="0" townid="6" size="10" />
+	<house name="Peace Quarter, Flat VIII" houseid="2713" entryx="1989" entryy="2799" entryz="6" rent="0" townid="6" size="10" />
+	<house name="Peace Quarter, Flat IX" houseid="2714" entryx="2009" entryy="2786" entryz="7" rent="0" townid="6" size="40" />
+	<house name="Peace Quarter, Flat X" houseid="2715" entryx="2009" entryy="2800" entryz="7" rent="0" townid="6" size="63" />
+	<house name="Peace Quarter, Flat XI" houseid="2716" entryx="2009" entryy="2806" entryz="7" rent="0" townid="6" size="22" />
+	<house name="Peace Quarter, Flat XVIII" houseid="2717" entryx="2004" entryy="2789" entryz="6" rent="0" townid="6" size="31" />
+	<house name="Lighting Island Flat" houseid="2718" entryx="2017" entryy="2778" entryz="7" rent="0" townid="6" size="61" />
+	<house name="Peace Quarter, Flat XII" houseid="2719" entryx="2015" entryy="2786" entryz="7" rent="0" townid="6" size="80" />
+	<house name="Peace Quarter, Flat XIII" houseid="2720" entryx="2015" entryy="2800" entryz="7" rent="0" townid="6" size="46" />
+	<house name="Peace Quarter, Flat XIV" houseid="2721" entryx="2018" entryy="2808" entryz="7" rent="0" townid="6" size="10" />
+	<house name="Peace Quarter, Flat XV" houseid="2722" entryx="2022" entryy="2808" entryz="7" rent="0" townid="6" size="4" />
+	<house name="Peace Quarter, Flat XVI" houseid="2723" entryx="2026" entryy="2808" entryz="7" rent="0" townid="6" size="10" />
+	<house name="Peace Quarter, Flat XVII" houseid="2724" entryx="2024" entryy="2811" entryz="7" rent="0" townid="6" size="46" />
+	<house name="Amazonian Dream Flat I" houseid="2725" entryx="2041" entryy="2775" entryz="7" rent="0" townid="6" size="8" />
+	<house name="Amazonian Dream Flat II" houseid="2726" entryx="2047" entryy="2775" entryz="7" rent="0" townid="6" size="10" />
+	<house name="Amazonian Dream Flat III" houseid="2727" entryx="2047" entryy="2782" entryz="7" rent="0" townid="6" size="18" />
+	<house name="Amazonian Dream Flat V" houseid="2728" entryx="2041" entryy="2785" entryz="7" rent="0" townid="6" size="16" />
+	<house name="Amazonian Dream Flat IV" houseid="2729" entryx="2047" entryy="2785" entryz="7" rent="0" townid="6" size="14" />
+	<house name="Amazonian Dream Flat VI" houseid="2730" entryx="2041" entryy="2775" entryz="6" rent="0" townid="6" size="8" />
+	<house name="Amazonian Dream Flat VII" houseid="2731" entryx="2047" entryy="2778" entryz="6" rent="0" townid="6" size="34" />
+	<house name="Amazonian Dream Flat VIII" houseid="2732" entryx="2041" entryy="2785" entryz="6" rent="0" townid="6" size="18" />
+	<house name="Amazonian Dream Flat IX" houseid="2733" entryx="2047" entryy="2785" entryz="6" rent="0" townid="6" size="14" />
+	<house name="Peace Quarter, Flat XIX" houseid="2734" entryx="2034" entryy="2795" entryz="7" rent="0" townid="6" size="26" />
+	<house name="Peace Quarter, Flat XX" houseid="2735" entryx="2034" entryy="2798" entryz="7" rent="0" townid="6" size="59" />
+	<house name="Peace Quarter, Flat XXI" houseid="2736" entryx="2058" entryy="2794" entryz="7" rent="0" townid="6" size="61" />
+	<house name="Peace Quarter, Flat XXII, Tower I" houseid="2737" entryx="2054" entryy="2798" entryz="7" rent="0" townid="6" size="397" />
+	<house name="East Merchant V" houseid="2738" entryx="1548" entryy="2162" entryz="6" rent="0" townid="8" size="26" />
+	<house name="East Merchant I" houseid="2739" entryx="1545" entryy="2156" entryz="6" rent="0" townid="8" size="23" />
+	<house name="East Merchant II" houseid="2740" entryx="1542" entryy="2156" entryz="6" rent="0" townid="8" size="25" />
+	<house name="East Merchant III" houseid="2741" entryx="1541" entryy="2147" entryz="6" rent="0" townid="8" size="29" />
+	<house name="East Merchant IV" houseid="2742" entryx="1540" entryy="2136" entryz="6" rent="0" townid="8" size="16" />
+	<house name="Upper Merchant's Hall I" houseid="2743" entryx="1572" entryy="2158" entryz="5" rent="0" townid="8" size="18" />
+	<house name="Upper Merchant's Hall II" houseid="2744" entryx="1569" entryy="2164" entryz="5" rent="0" townid="8" size="19" />
+	<house name="Upper Merchant's Hall IV" houseid="2745" entryx="1561" entryy="2158" entryz="5" rent="0" townid="8" size="18" />
+	<house name="Upper Merchant's Hall III" houseid="2746" entryx="1566" entryy="2164" entryz="5" rent="0" townid="8" size="18" />
+	<house name="Old Forge Quarter I" houseid="2825" entryx="1515" entryy="2205" entryz="10" rent="0" townid="8" size="102" />
+	<house name="Old Forge Quarter II" houseid="2826" entryx="1532" entryy="2210" entryz="10" rent="0" townid="8" size="26" />
+	<house name="Old Forge Quarter III" houseid="2827" entryx="1539" entryy="2205" entryz="10" rent="0" townid="8" size="53" />
+	<house name="Great Hall Flat I" houseid="2828" entryx="1503" entryy="2228" entryz="10" rent="0" townid="8" size="28" />
+	<house name="Great Hall Flat II" houseid="2829" entryx="1496" entryy="2228" entryz="10" rent="0" townid="8" size="56" />
+	<house name="Great Hall Flat III" houseid="2830" entryx="1496" entryy="2223" entryz="10" rent="0" townid="8" size="56" />
+	<house name="Great Hall Flat IV" houseid="2831" entryx="1515" entryy="2228" entryz="10" rent="0" townid="8" size="39" />
+	<house name="Merchant's Flat I" houseid="2832" entryx="1529" entryy="2181" entryz="10" rent="0" townid="8" size="10" />
+	<house name="Merchant's Flat II" houseid="2833" entryx="1533" entryy="2181" entryz="10" rent="0" townid="8" size="10" />
+	<house name="Merchant's Flat III" houseid="2834" entryx="1529" entryy="2192" entryz="10" rent="0" townid="8" size="13" />
+	<house name="Merchant's Flat IV" houseid="2835" entryx="1533" entryy="2192" entryz="10" rent="0" townid="8" size="13" />
+	<house name="The Trader's Flat I" houseid="2836" entryx="1546" entryy="2186" entryz="10" rent="0" townid="8" size="24" />
+	<house name="The Trader's Flat II" houseid="2837" entryx="1546" entryy="2188" entryz="10" rent="0" townid="8" size="18" />
+	<house name="The Trader's Flat III" houseid="2838" entryx="1552" entryy="2186" entryz="10" rent="0" townid="8" size="24" />
+	<house name="The Trader's Flat IV" houseid="2839" entryx="1552" entryy="2188" entryz="10" rent="0" townid="8" size="18" />
+	<house name="North Waterfall Flat I" houseid="2840" entryx="1577" entryy="2222" entryz="12" rent="0" townid="8" size="30" />
+	<house name="North Waterfall Flat II" houseid="2841" entryx="1577" entryy="2215" entryz="12" rent="0" townid="8" size="30" />
+	<house name="North Waterfall Flat III" houseid="2842" entryx="1583" entryy="2222" entryz="12" rent="0" townid="8" size="30" />
+	<house name="North Waterfall Flat IV" houseid="2843" entryx="1583" entryy="2215" entryz="12" rent="0" townid="8" size="30" />
+	<house name="North Waterfall Flat V" houseid="2844" entryx="1580" entryy="2211" entryz="12" rent="0" townid="8" size="60" />
+	<house name="North Waterfall Flat VI" houseid="2845" entryx="1575" entryy="2220" entryz="11" rent="0" townid="8" size="16" />
+	<house name="North Waterfall Flat VII" houseid="2846" entryx="1575" entryy="2216" entryz="11" rent="0" townid="8" size="16" />
+	<house name="North Waterfall Flat VIII" houseid="2847" entryx="1586" entryy="2216" entryz="11" rent="0" townid="8" size="16" />
+	<house name="North Waterfall Flat IX" houseid="2848" entryx="1586" entryy="2220" entryz="11" rent="0" townid="8" size="16" />
+	<house name="South Waterfall Flat I" houseid="2849" entryx="1577" entryy="2251" entryz="12" rent="0" townid="8" size="30" />
+	<house name="South Waterfall Flat II" houseid="2850" entryx="1577" entryy="2258" entryz="12" rent="0" townid="8" size="30" />
+	<house name="South Waterfall Flat III" houseid="2851" entryx="1583" entryy="2251" entryz="12" rent="0" townid="8" size="30" />
+	<house name="South Waterfall Flat IV" houseid="2852" entryx="1583" entryy="2258" entryz="12" rent="0" townid="8" size="30" />
+	<house name="South Waterfall Flat V" houseid="2853" entryx="1580" entryy="2261" entryz="12" rent="0" townid="8" size="60" />
+	<house name="South Waterfall Flat VI" houseid="2854" entryx="1575" entryy="2252" entryz="11" rent="0" townid="8" size="16" />
+	<house name="South Waterfall Flat VII" houseid="2855" entryx="1575" entryy="2256" entryz="11" rent="0" townid="8" size="16" />
+	<house name="South Waterfall Flat VIII" houseid="2856" entryx="1586" entryy="2252" entryz="11" rent="0" townid="8" size="16" />
+	<house name="South Waterfall Flat IX" houseid="2857" entryx="1586" entryy="2256" entryz="11" rent="0" townid="8" size="16" />
+	<house name="Sunrise Flat I" houseid="2858" entryx="1599" entryy="1997" entryz="6" rent="0" townid="3" size="12" />
+	<house name="Sunrise Flat II" houseid="2859" entryx="1641" entryy="1975" entryz="7" rent="0" townid="3" size="38" />
+	<house name="Arrival Flat I" houseid="2860" entryx="2202" entryy="2265" entryz="7" rent="0" townid="4" size="35" />
+	<house name="Arrival Flat II" houseid="2861" entryx="2195" entryy="2265" entryz="7" rent="0" townid="4" size="77" />
+	<house name="Pirates Society Quarter Flat I" houseid="2862" entryx="2170" entryy="2272" entryz="7" rent="0" townid="4" size="70" />
+	<house name="Pirates Society Quarter Flat II" houseid="2863" entryx="2175" entryy="2272" entryz="7" rent="0" townid="4" size="82" />
+	<house name="Pirates Society Quarter Flat III" houseid="2864" entryx="2170" entryy="2265" entryz="7" rent="0" townid="4" size="74" />
+	<house name="Pirates Society Quarter Flat IV" houseid="2865" entryx="2175" entryy="2265" entryz="7" rent="0" townid="4" size="82" />
+	<house name="Pirates Society Quarter Flat V" houseid="2866" entryx="2170" entryy="2258" entryz="7" rent="0" townid="4" size="74" />
+	<house name="Pirates Society Quarter Flat VI" houseid="2867" entryx="2175" entryy="2258" entryz="7" rent="0" townid="4" size="82" />
+	<house name="Seruse Flat I" houseid="2868" entryx="2195" entryy="2258" entryz="7" rent="0" townid="4" size="24" />
+	<house name="Seruse Flat II" houseid="2869" entryx="2202" entryy="2258" entryz="7" rent="0" townid="4" size="38" />
+	<house name="Seruse Flat III" houseid="2870" entryx="2217" entryy="2251" entryz="7" rent="0" townid="4" size="86" />
+	<house name="Seruse Flat IV" houseid="2871" entryx="2227" entryy="2251" entryz="7" rent="0" townid="4" size="113" />
+	<house name="Central Trade Flat I" houseid="2872" entryx="2209" entryy="2247" entryz="7" rent="0" townid="4" size="26" />
+	<house name="Central Trade Flat II" houseid="2873" entryx="2202" entryy="2238" entryz="7" rent="0" townid="4" size="26" />
+	<house name="Central Trade Flat III" houseid="2874" entryx="2220" entryy="2245" entryz="7" rent="0" townid="4" size="23" />
+	<house name="Central Trade Flat IV" houseid="2875" entryx="2188" entryy="2247" entryz="7" rent="0" townid="4" size="10" />
+	<house name="Central Trade Flat V" houseid="2876" entryx="2183" entryy="2247" entryz="7" rent="0" townid="4" size="10" />
+	<house name="Central Trade Flat VI" houseid="2877" entryx="2163" entryy="2247" entryz="7" rent="0" townid="4" size="14" />
+	<house name="Central Trade Flat VII" houseid="2878" entryx="2165" entryy="2245" entryz="6" rent="0" townid="4" size="18" />
+	<house name="Central Trade Flat VIII" houseid="2879" entryx="2193" entryy="2247" entryz="6" rent="0" townid="4" size="24" />
+	<house name="The Sea View Flat I" houseid="2880" entryx="2185" entryy="2215" entryz="7" rent="0" townid="4" size="20" />
+	<house name="The Sea View Flat II" houseid="2881" entryx="2185" entryy="2208" entryz="7" rent="0" townid="4" size="20" />
+	<house name="The Sea View Flat III" houseid="2882" entryx="2178" entryy="2208" entryz="7" rent="0" townid="4" size="20" />
+	<house name="Central Seruse Flat" houseid="2883" entryx="2245" entryy="2254" entryz="7" rent="0" townid="4" size="103" />
+	<house name="Skull'square Avenue Flat I" houseid="2884" entryx="2291" entryy="2451" entryz="5" rent="0" townid="12" size="21" />
+	<house name="Skull'square Avenue Flat II" houseid="2885" entryx="2302" entryy="2454" entryz="7" rent="0" townid="12" size="36" />
+	<house name="Skull'square Avenue Flat III" houseid="2886" entryx="2312" entryy="2454" entryz="7" rent="0" townid="12" size="62" />
+	<house name="Skull'square Avenue Flat IV" houseid="2887" entryx="2302" entryy="2442" entryz="7" rent="0" townid="12" size="75" />
+	<house name="North Corner Flat I" houseid="2888" entryx="2335" entryy="2438" entryz="7" rent="0" townid="12" size="10" />
+	<house name="North Corner Flat II" houseid="2889" entryx="2330" entryy="2436" entryz="5" rent="0" townid="12" size="37" />
+	<house name="North Corner Flat III" houseid="2890" entryx="2335" entryy="2429" entryz="7" rent="0" townid="12" size="16" />
+	<house name="Dargonian Dealers I" houseid="2891" entryx="2290" entryy="2468" entryz="7" rent="0" townid="12" size="50" />
+	<house name="Dargonian Dealers II" houseid="2892" entryx="2362" entryy="2450" entryz="7" rent="0" townid="12" size="67" />
+	<house name="Surveillance Flat I" houseid="2893" entryx="2280" entryy="2467" entryz="6" rent="0" townid="12" size="7" />
+	<house name="Surveillance Flat II" houseid="2894" entryx="2290" entryy="2467" entryz="6" rent="0" townid="12" size="16" />
+	<house name="Surveillance Flat III" houseid="2895" entryx="2298" entryy="2469" entryz="6" rent="0" townid="12" size="66" />
+	<house name="Main Street House" houseid="2896" entryx="2298" entryy="2469" entryz="7" rent="0" townid="12" size="18" />
+	<house name="Commerce Avenue Flat I" houseid="2897" entryx="2313" entryy="2466" entryz="7" rent="0" townid="12" size="54" />
+	<house name="Commerce Avenue Flat II" houseid="2898" entryx="2323" entryy="2467" entryz="7" rent="0" townid="12" size="10" />
+	<house name="Commerce Avenue Flat III" houseid="2899" entryx="2321" entryy="2469" entryz="6" rent="0" townid="12" size="49" />
+	<house name="Commerce Avenue Flat IV" houseid="2900" entryx="2339" entryy="2468" entryz="7" rent="0" townid="12" size="10" />
+	<house name="Commerce Avenue Flat V" houseid="2901" entryx="2337" entryy="2468" entryz="6" rent="0" townid="12" size="62" />
+	<house name="Golden Quarter Flat I" houseid="2902" entryx="2311" entryy="2485" entryz="7" rent="0" townid="12" size="55" />
+	<house name="Golden Quarter Flat II" houseid="2903" entryx="2310" entryy="2480" entryz="6" rent="0" townid="12" size="15" />
+	<house name="Golden Quarter Flat III" houseid="2904" entryx="2310" entryy="2498" entryz="7" rent="0" townid="12" size="57" />
+	<house name="Golden Quarter Flat IV" houseid="2905" entryx="2324" entryy="2499" entryz="6" rent="0" townid="12" size="49" />
+	<house name="Golden Quarter Flat V" houseid="2906" entryx="2340" entryy="2495" entryz="6" rent="0" townid="12" size="50" />
+	<house name="Golden Quarter Flat VI" houseid="2907" entryx="2347" entryy="2492" entryz="7" rent="0" townid="12" size="109" />
+	<house name="Dargonians GuildHall C" houseid="2908" entryx="2342" entryy="2479" entryz="7" rent="500000" townid="12" size="50" />
+	<house name="Dargonians GuildHall B" houseid="2909" entryx="2348" entryy="2484" entryz="6" rent="500000" townid="12" size="51" />
+	<house name="Dargonians GuildHall A" houseid="2910" entryx="2348" entryy="2484" entryz="5" rent="1850000" townid="12" size="81" />
+	<house name="Double Alliance Guildhall" houseid="2911" entryx="2354" entryy="2468" entryz="7" rent="975000" townid="12" size="116" />
+	<house name="East Tower House" houseid="2912" entryx="2357" entryy="2460" entryz="7" rent="0" townid="12" size="45" />
+	<house name="The Banker Flat I" houseid="2913" entryx="2343" entryy="2443" entryz="7" rent="0" townid="12" size="14" />
+	<house name="The Banker Flat II" houseid="2914" entryx="2355" entryy="2444" entryz="7" rent="0" townid="12" size="7" />
+	<house name="The Banker Flat III" houseid="2915" entryx="2352" entryy="2444" entryz="6" rent="0" townid="12" size="32" />
+	<house name="The Banker Flat IV" houseid="2916" entryx="2348" entryy="2444" entryz="6" rent="0" townid="12" size="90" />
+	<house name="The Gateway House" houseid="2917" entryx="2343" entryy="2431" entryz="7" rent="0" townid="12" size="16" />
+	<house name="The Elder's House" houseid="2918" entryx="2348" entryy="2459" entryz="6" rent="250000" townid="12" size="12" />
 </houses>

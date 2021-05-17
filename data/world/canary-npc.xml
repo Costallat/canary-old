@@ -1,2 +1,602 @@
 <?xml version="1.0"?>
-<npcs/>
+<npcs>
+	<npc centerx="1539" centery="2161" centerz="0" radius="1">
+		<npc name="durin_tapete1" x="0" y="0" z="0" spawntime="60" />
+	</npc>
+	<npc centerx="1561" centery="2542" centerz="2" radius="1">
+		<npc name="mate_paladin" x="0" y="0" z="2" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1618" centery="1979" centerz="3" radius="1">
+		<npc name="molour_coiner" x="0" y="0" z="3" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1869" centery="1859" centerz="4" radius="1">
+		<npc name="durin_tapete2" x="0" y="0" z="4" spawntime="60" />
+	</npc>
+	<npc centerx="1620" centery="1913" centerz="4" radius="1">
+		<npc name="creature_products" x="1" y="1" z="4" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1615" centery="1980" centerz="4" radius="1">
+		<npc name="ara_bank" x="-1" y="0" z="4" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1565" centery="2543" centerz="4" radius="1">
+		<npc name="mate_knight" x="1" y="1" z="4" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2073" centery="1697" centerz="5" radius="1">
+		<npc name="jorn_municao" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2104" centery="1704" centerz="5" radius="1">
+		<npc name="jorn_mail" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1430" centery="1781" centerz="5" radius="5">
+		<npc name="molour_boat" x="1" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1578" centery="1954" centerz="5" radius="5">
+		<npc name="ara_boat" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1600" centery="1967" centerz="5" radius="1">
+		<npc name="tasksystem" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1599" centery="1976" centerz="5" radius="1">
+		<npc name="ara_priest" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1615" centery="1983" centerz="5" radius="1">
+		<npc name="ara_mail" x="-1" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1862" centery="2148" centerz="5" radius="5">
+		<npc name="livingstar_boat" x="0" y="1" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1938" centery="2154" centerz="5" radius="1">
+		<npc name="molour_coiner" x="-1" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1911" centery="2155" centerz="5" radius="1">
+		<npc name="Irmana" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1929" centery="2156" centerz="5" radius="1">
+		<npc name="livingstar_bank" x="0" y="-1" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1593" centery="2163" centerz="5" radius="1">
+		<npc name="mod_municao" x="-1" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1585" centery="2164" centerz="5" radius="1">
+		<npc name="mod_furniture" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1578" centery="2208" centerz="5" radius="1">
+		<npc name="mod_boat" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2188" centery="2226" centerz="5" radius="1">
+		<npc name="seruse_tavern" x="0" y="0" z="5" spawntime="60" />
+	</npc>
+	<npc centerx="2166" centery="2227" centerz="5" radius="1">
+		<npc name="seruse_mail" x="0" y="0" z="5" spawntime="60" />
+	</npc>
+	<npc centerx="2189" centery="2308" centerz="5" radius="1">
+		<npc name="seruse_boat" x="0" y="0" z="5" spawntime="60" />
+	</npc>
+	<npc centerx="2340" centery="2412" centerz="5" radius="1">
+		<npc name="dargor_boat" x="1" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2300" centery="2425" centerz="5" radius="1">
+		<npc name="dargor_guarda05" x="-1" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1566" centery="2431" centerz="5" radius="1">
+		<npc name="mate_oracle" x="0" y="-1" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2290" centery="2454" centerz="5" radius="1">
+		<npc name="dargor_municao" x="0" y="0" z="5" spawntime="60" />
+	</npc>
+	<npc centerx="1555" centery="2459" centerz="5" radius="1">
+		<npc name="mate_tools" x="1" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1545" centery="2462" centerz="5" radius="1">
+		<npc name="mate_potion" x="0" y="-1" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2290" centery="2492" centerz="5" radius="1">
+		<npc name="dargor_promotion" x="0" y="0" z="5" spawntime="60" />
+	</npc>
+	<npc centerx="1563" centery="2543" centerz="5" radius="1">
+		<npc name="mate_sorcerer" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2334" centery="2852" centerz="5" radius="1">
+		<npc name="menutis_magic" x="1" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2344" centery="2853" centerz="5" radius="1">
+		<npc name="menutis_equip" x="0" y="-1" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2315" centery="2897" centerz="5" radius="5">
+		<npc name="menutis_boat" x="-2" y="0" z="5" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1784" centery="909" centerz="6" radius="1">
+		<npc name="molour_coiner" x="-1" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="2071" centery="1695" centerz="6" radius="1">
+		<npc name="jorn_magic" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2102" centery="1698" centerz="6" radius="1">
+		<npc name="jorn_equip" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2134" centery="1717" centerz="6" radius="1">
+		<npc name="jorn_boat1" x="0" y="-1" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2046" centery="1720" centerz="6" radius="1">
+		<npc name="Sven" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1460" centery="1795" centerz="6" radius="1">
+		<npc name="molour_carpet" x="0" y="-1" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1458" centery="1804" centerz="6" radius="1">
+		<npc name="molour_municao" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1468" centery="1810" centerz="6" radius="1">
+		<npc name="molour_coiner" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1510" centery="1833" centerz="6" radius="1">
+		<npc name="Rafzan" x="-1" y="1" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1443" centery="1834" centerz="6" radius="1">
+		<npc name="molour_mana_potions" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1849" centery="1856" centerz="6" radius="1">
+		<npc name="leprin_boat" x="0" y="-1" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1583" centery="1922" centerz="6" radius="2">
+		<npc name="tasker" x="-1" y="-1" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1632" centery="1965" centerz="6" radius="1">
+		<npc name="ara_promotion" x="1" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1600" centery="1968" centerz="6" radius="1">
+		<npc name="ara_municao" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1624" centery="1976" centerz="6" radius="1">
+		<npc name="ara_jewels" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1605" centery="1980" centerz="6" radius="1">
+		<npc name="ara_runes_wands" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1636" centery="1991" centerz="6" radius="1">
+		<npc name="ara_furniture" x="-1" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1481" centery="1997" centerz="6" radius="1">
+		<npc name="citizen_hat" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2120" centery="2030" centerz="6" radius="1">
+		<npc name="carpet_east" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1713" centery="2033" centerz="6" radius="1">
+		<npc name="Bozo" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1529" centery="2039" centerz="6" radius="1">
+		<npc name="ara_carpet" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1475" centery="2045" centerz="6" radius="1">
+		<npc name="A Sweaty Cyclops" x="0" y="-1" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1985" centery="2077" centerz="6" radius="80">
+		<npc name="livingstar_mail" x="-47" y="76" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1403" centery="2124" centerz="6" radius="1">
+		<npc name="tales_food" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="1550" centery="2141" centerz="6" radius="1">
+		<npc name="mod_rust" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1974" centery="2158" centerz="6" radius="1">
+		<npc name="livingstar_guide" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1588" centery="2165" centerz="6" radius="1">
+		<npc name="mod_equip" x="1" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1917" centery="2172" centerz="6" radius="1">
+		<npc name="livingstar_equip" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1911" centery="2178" centerz="6" radius="1">
+		<npc name="livingstar_municao" x="0" y="1" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1921" centery="2178" centerz="6" radius="1">
+		<npc name="livingstar_potions" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2176" centery="2216" centerz="6" radius="1">
+		<npc name="seruse_bank" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="1318" centery="2264" centerz="6" radius="1">
+		<npc name="tales_guard03" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="1896" centery="2265" centerz="6" radius="1">
+		<npc name="Oldrak" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2315" centery="2423" centerz="6" radius="1">
+		<npc name="dargor_equip_gold" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="1528" centery="2434" centerz="6" radius="1">
+		<npc name="tasksystem" x="1" y="-1" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2333" centery="2435" centerz="6" radius="1">
+		<npc name="dargor_magic" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="2279" centery="2443" centerz="6" radius="1">
+		<npc name="dargor_guarda07" x="-1" y="0" z="6" spawntime="60" direction="1" />
+	</npc>
+	<npc centerx="1543" centery="2444" centerz="6" radius="1">
+		<npc name="mate_guide" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2279" centery="2457" centerz="6" radius="1">
+		<npc name="dargor_guarda04" x="-1" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1561" centery="2460" centerz="6" radius="1">
+		<npc name="mate_equip" x="0" y="-1" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1542" centery="2461" centerz="6" radius="1">
+		<npc name="mate_loot" x="-1" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2279" centery="2462" centerz="6" radius="1">
+		<npc name="dargor_guarda08" x="-1" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="2339" centery="2466" centerz="6" radius="1">
+		<npc name="dargor_produtoscriaturas" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="2325" centery="2467" centerz="6" radius="1">
+		<npc name="dargor_furniture" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="2289" centery="2494" centerz="6" radius="1">
+		<npc name="dargor_guarda01" x="-1" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="2291" centery="2494" centerz="6" radius="1">
+		<npc name="dargor_guarda11" x="1" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="1531" centery="2513" centerz="6" radius="1">
+		<npc name="mate_boat1" x="0" y="-1" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1563" centery="2543" centerz="6" radius="1">
+		<npc name="mate_druid" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1560" centery="2561" centerz="6" radius="1">
+		<npc name="mate_boat2" x="0" y="-1" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2091" centery="2659" centerz="6" radius="60">
+		<npc name="molour_coiner" x="-32" y="-12" z="6" spawntime="60" direction="2" />
+		<npc name="amazonia_bank" x="-43" y="8" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2026" centery="2667" centerz="6" radius="5">
+		<npc name="amazonia_furnitures" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2070" centery="2680" centerz="6" radius="60" />
+	<npc centerx="2009" centery="2708" centerz="6" radius="2">
+		<npc name="amazonia_equip" x="-1" y="-1" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2008" centery="2719" centerz="6" radius="1">
+		<npc name="amazonia_bless_panda" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1982" centery="2721" centerz="6" radius="5">
+		<npc name="amazonia_jewels" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1915" centery="2729" centerz="6" radius="1">
+		<npc name="amazonia_boat" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2334" centery="2853" centerz="6" radius="1">
+		<npc name="menutis_tools" x="1" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2346" centery="2853" centerz="6" radius="1">
+		<npc name="menutis_bank" x="-1" y="0" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2331" centery="2867" centerz="6" radius="1">
+		<npc name="molour_coiner" x="0" y="-1" z="6" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1781" centery="920" centerz="7" radius="2">
+		<npc name="event_fishing" x="-1" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2040" centery="1710" centerz="7" radius="1">
+		<npc name="Halvar" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1689" centery="1758" centerz="7" radius="20">
+		<npc name="vampire_volta" x="-12" y="12" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2140" centery="1792" centerz="7" radius="1">
+		<npc name="okolnir_ida" x="-1" y="-1" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2233" centery="1800" centerz="7" radius="1">
+		<npc name="okolnir_volta" x="0" y="-1" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1443" centery="1803" centerz="7" radius="1">
+		<npc name="molour_guide" x="1" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1676" centery="1803" centerz="7" radius="1">
+		<npc name="vampire_ida" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="1494" centery="1806" centerz="7" radius="1">
+		<npc name="Lothar" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1446" centery="1810" centerz="7" radius="1">
+		<npc name="molour_bank" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1420" centery="1813" centerz="7" radius="1">
+		<npc name="molour_runes_wands" x="-1" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1458" centery="1813" centerz="7" radius="1">
+		<npc name="molour_mail" x="-1" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1450" centery="1822" centerz="7" radius="1">
+		<npc name="tasksystem" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1430" centery="1827" centerz="7" radius="1">
+		<npc name="molour_food" x="1" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1443" centery="1834" centerz="7" radius="1">
+		<npc name="molour_health_potions" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1442" centery="1844" centerz="7" radius="1">
+		<npc name="molour_tools" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1417" centery="1845" centerz="7" radius="1">
+		<npc name="molour_equip" x="0" y="-1" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1882" centery="1845" centerz="7" radius="1">
+		<npc name="leprin_magic" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1860" centery="1857" centerz="7" radius="1">
+		<npc name="leprin_municao" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1857" centery="1865" centerz="7" radius="1">
+		<npc name="leprin_food" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1446" centery="1870" centerz="7" radius="1">
+		<npc name="molour_furniture" x="1" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1841" centery="1870" centerz="7" radius="1">
+		<npc name="leprin_loot" x="-1" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1869" centery="1899" centerz="7" radius="1">
+		<npc name="Bron" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1623" centery="1949" centerz="7" radius="1">
+		<npc name="ara_equip" x="0" y="-1" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1588" centery="1957" centerz="7" radius="3">
+		<npc name="ara_food" x="2" y="-1" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1632" centery="1965" centerz="7" radius="1">
+		<npc name="ara_guard" x="-1" y="1" z="7" spawntime="60" direction="1" />
+	</npc>
+	<npc centerx="1603" centery="1978" centerz="7" radius="1">
+		<npc name="ara_guide" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1633" centery="1984" centerz="7" radius="1">
+		<npc name="ara_tools" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1471" centery="2019" centerz="7" radius="1">
+		<npc name="eremo_boat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1407" centery="2036" centerz="7" radius="2">
+		<npc name="eremo_aol" x="-2" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1406" centery="2046" centerz="7" radius="1">
+		<npc name="eremo_boat_back" x="0" y="-1" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1973" centery="2154" centerz="7" radius="1">
+		<npc name="livingstar_priest" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1943" centery="2164" centerz="7" radius="1">
+		<npc name="tasksystem" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1914" centery="2172" centerz="7" radius="1">
+		<npc name="livingstar_tools" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1921" centery="2172" centerz="7" radius="1">
+		<npc name="livingstar_runes_wands" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1912" centery="2179" centerz="7" radius="1">
+		<npc name="livingstar_equip2" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1917" centery="2179" centerz="7" radius="1">
+		<npc name="livingstar_furniture" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1922" centery="2179" centerz="7" radius="1">
+		<npc name="livingstar_food" x="1" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1385" centery="2192" centerz="7" radius="1">
+		<npc name="tales_guard04" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="1391" centery="2192" centerz="7" radius="1">
+		<npc name="tales_guard05" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="1400" centery="2198" centerz="7" radius="1">
+		<npc name="tales_guard01" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="1343" centery="2202" centerz="7" radius="1">
+		<npc name="tales_municao" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2170" centery="2220" centerz="7" radius="1">
+		<npc name="seruse_tats" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2176" centery="2220" centerz="7" radius="1">
+		<npc name="seruse_guide" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="1347" centery="2221" centerz="7" radius="1">
+		<npc name="tales_bank" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="1362" centery="2224" centerz="7" radius="1">
+		<npc name="tales_tools" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="1321" centery="2226" centerz="7" radius="1">
+		<npc name="tales_equip" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="1374" centery="2231" centerz="7" radius="1">
+		<npc name="tales_potions" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="1322" centery="2236" centerz="7" radius="1">
+		<npc name="tales_tavern" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2187" centery="2238" centerz="7" radius="1">
+		<npc name="seruse_potions" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2221" centery="2238" centerz="7" radius="1">
+		<npc name="seruse_food" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2168" centery="2244" centerz="7" radius="1">
+		<npc name="seruse_municao" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2178" centery="2244" centerz="7" radius="1">
+		<npc name="seruse_equip" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2192" centery="2244" centerz="7" radius="1">
+		<npc name="seruse_tools" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="1376" centery="2245" centerz="7" radius="1">
+		<npc name="tales_guard02" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="1333" centery="2257" centerz="7" radius="1">
+		<npc name="tales_mail" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2337" centery="2422" centerz="7" radius="1">
+		<npc name="dargor_guarda06" x="0" y="-1" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2348" centery="2437" centerz="7" radius="1">
+		<npc name="dargor_bank" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2307" centery="2444" centerz="7" radius="1">
+		<npc name="dargor_tools" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2327" centery="2448" centerz="7" radius="1">
+		<npc name="dargor_mail" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2294" centery="2450" centerz="7" radius="1">
+		<npc name="dargor_food" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2346" centery="2460" centerz="7" radius="1">
+		<npc name="dargor_runes" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2320" centery="2493" centerz="7" radius="1">
+		<npc name="dargor_equip" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="2328" centery="2505" centerz="7" radius="1">
+		<npc name="dargor_guarda03" x="-1" y="0" z="7" spawntime="60" direction="1" />
+	</npc>
+	<npc centerx="2331" centery="2505" centerz="7" radius="1">
+		<npc name="dargor_guarda09" x="1" y="0" z="7" spawntime="60" direction="3" />
+	</npc>
+	<npc centerx="2328" centery="2507" centerz="7" radius="1">
+		<npc name="dargor_guarda02" x="-1" y="0" z="7" spawntime="60" direction="1" />
+	</npc>
+	<npc centerx="2331" centery="2507" centerz="7" radius="1">
+		<npc name="dargor_guarda10" x="1" y="0" z="7" spawntime="60" direction="3" />
+	</npc>
+	<npc centerx="1933" centery="2624" centerz="7" radius="1">
+		<npc name="amazonia_lesla_ida" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1898" centery="2630" centerz="7" radius="1">
+		<npc name="amazonia_lesla_volta" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1895" centery="2651" centerz="7" radius="1">
+		<npc name="amazonia_hesto" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1919" centery="2665" centerz="7" radius="1">
+		<npc name="amazonia_lesto" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2021" centery="2693" centerz="7" radius="5">
+		<npc name="amazonia_mail" x="-1" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2010" centery="2694" centerz="7" radius="1">
+		<npc name="amazonia_guide" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1970" centery="2698" centerz="7" radius="5">
+		<npc name="amazonia_food" x="1" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1998" centery="2698" centerz="7" radius="1">
+		<npc name="amazonia_guard" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1982" centery="2704" centerz="7" radius="1">
+		<npc name="amazonia_food2" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1996" centery="2704" centerz="7" radius="1">
+		<npc name="amazonia_fruits" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1989" centery="2711" centerz="7" radius="5">
+		<npc name="amazonia_spirit" x="4" y="2" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1964" centery="2713" centerz="7" radius="5">
+		<npc name="amazonia_piraterunes" x="0" y="-1" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2002" centery="2716" centerz="7" radius="5">
+		<npc name="amazonia_runes_wands" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1982" centery="2724" centerz="7" radius="5">
+		<npc name="amazonia_tools" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1973" centery="2725" centerz="7" radius="5">
+		<npc name="amazonia_municao" x="0" y="-1" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2332" centery="2841" centerz="7" radius="1">
+		<npc name="menutis_municao" x="0" y="-1" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2332" centery="2868" centerz="7" radius="1">
+		<npc name="menutis_mail" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="2293" centery="2893" centerz="7" radius="1">
+		<npc name="menutis_food" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1441" centery="1804" centerz="8" radius="1">
+		<npc name="molour_priest" x="0" y="0" z="8" spawntime="60" direction="3" />
+	</npc>
+	<npc centerx="2347" centery="2438" centerz="8" radius="1">
+		<npc name="dargor_jewels" x="0" y="0" z="8" spawntime="60" />
+	</npc>
+	<npc centerx="2315" centery="2467" centerz="8" radius="30">
+		<npc name="dargor_guide" x="15" y="14" z="8" spawntime="60" />
+	</npc>
+	<npc centerx="1993" centery="2689" centerz="8" radius="1">
+		<npc name="amazonia_tavern" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1988" centery="2698" centerz="8" radius="1">
+		<npc name="tasksystem" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1989" centery="2711" centerz="8" radius="5">
+		<npc name="amazonia_bless" x="0" y="0" z="8" spawntime="60" />
+	</npc>
+	<npc centerx="1429" centery="1900" centerz="9" radius="1">
+		<npc name="Tamoril" x="0" y="0" z="9" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1352" centery="2048" centerz="9" radius="1">
+		<npc name="caronte_boat2" x="-1" y="1" z="9" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1537" centery="2156" centerz="9" radius="20">
+		<npc name="mod_tavern" x="-16" y="18" z="9" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1548" centery="2191" centerz="9" radius="1">
+		<npc name="mod_mail" x="0" y="-1" z="9" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1503" centery="2232" centerz="9" radius="1">
+		<npc name="mod_tools" x="1" y="0" z="9" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1895" centery="1908" centerz="10" radius="2">
+		<npc name="Benith" x="0" y="-1" z="10" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1825" centery="1910" centerz="10" radius="5">
+		<npc name="Ajax" x="1" y="0" z="10" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1844" centery="2213" centerz="10" radius="1">
+		<npc name="A Ghostly Sage" x="-1" y="-1" z="10" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1561" centery="2224" centerz="10" radius="1">
+		<npc name="tasksystem" x="-1" y="0" z="10" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1537" centery="2236" centerz="11" radius="1">
+		<npc name="durin_promotion" x="0" y="0" z="11" spawntime="60" />
+	</npc>
+	<npc centerx="1495" centery="1948" centerz="12" radius="1">
+		<npc name="caronte_boat1" x="0" y="0" z="12" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1553" centery="1952" centerz="13" radius="1">
+		<npc name="strangeadventurer" x="0" y="0" z="13" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1752" centery="2239" centerz="15" radius="1">
+		<npc name="A Dead Bureaucrat4" x="0" y="0" z="15" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1744" centery="2245" centerz="15" radius="1">
+		<npc name="A Dead Bureaucrat3" x="0" y="-1" z="15" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1752" centery="2250" centerz="15" radius="1">
+		<npc name="A Dead Bureaucrat2" x="0" y="-1" z="15" spawntime="60" direction="2" />
+	</npc>
+	<npc centerx="1745" centery="2260" centerz="15" radius="1">
+		<npc name="A Dead Bureaucrat1" x="-1" y="0" z="15" spawntime="60" direction="2" />
+	</npc>
+</npcs>
